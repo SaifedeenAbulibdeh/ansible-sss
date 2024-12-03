@@ -1,2 +1,5 @@
-150.136.163.14 apache_p=apache2 php_p=libapache2-mod-php
-150.136.246.12 apache_p=apache2 php_p=libapache2-mod-php
+[web_servers]
+150.136.163.14
+
+[db_servers]
+150.136.246.12
